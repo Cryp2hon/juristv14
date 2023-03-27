@@ -1592,6 +1592,9 @@ body {
   justify-content: center;
   width: 280px;
 }
+.services_card-text{
+  width: 215px;
+}
 .services_card-image {
   margin-right: 10px;
 }
