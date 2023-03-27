@@ -688,7 +688,11 @@
   .second_left-text {
     width: 200px;
     font-size: 14px;
-    margin-bottom: 140px;
+    margin-bottom: 110px;
+  }
+ 
+  .second_left-groupone{
+    margin-bottom: -10px;
   }
   .second_left-grouptwo {
     width: 190px;
@@ -712,7 +716,7 @@
     bottom: 145px;
   }
   .second_right {
-    top: 330px;
+    top: 350px;
     left: 210px;
     position: absolute;
   }
@@ -720,7 +724,7 @@
     font-size: 12px;
     line-height: 15px;
     width: 145px;
-    margin-bottom: 80px;
+    margin-bottom: 65px;
   }
   .second_right-form-wrapper {
     height: 363px;
