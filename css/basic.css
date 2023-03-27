@@ -66,7 +66,7 @@ body {
 
 .main {
   padding-bottom: 30px;
-  background: url(/img/main_back.jpg);
+  background: url(../img/main_back.jpg);
   background-repeat: no-repeat;
   background-position: top center;
   color: #fff;
@@ -313,7 +313,7 @@ body {
 
 .second {
   padding-top: 50px;
-  background: url(/img/second_bg.png);
+  background: url(../img/second_bg.png);
   background-size: cover;
   background-repeat: no-repeat;
   background-position: center center;
@@ -350,7 +350,7 @@ body {
   position: relative;
   margin-left: 50%;
   transform: translateX(-50%);
-  background: url(/img/secondblock_image.png), linear-gradient(110.12deg, #111111 -10.94%, #9D9D9D 150.79%);
+  background: url(../img/secondblock_image.png), linear-gradient(110.12deg, #111111 -10.94%, #9D9D9D 150.79%);
   background-repeat: no-repeat;
   background-position: center center;
   background-size: cover;
@@ -572,7 +572,7 @@ body {
 }
 
 .twoblocks {
-  background-image: url(/img/twoblock_back.png);
+  background-image: url(../img/twoblock_back.png);
   background-repeat: no-repeat;
   background-position: top center;
   background-size: cover;
@@ -732,7 +732,7 @@ body {
   margin-right: 20px;
 }
 .twoblocks .pains_pain-left-titletext::before {
-  content: url(/img/galochkaorange.svg);
+  content: url(../img/galochkaorange.svg);
   position: absolute;
   left: 18px;
   top: 8px;
@@ -821,7 +821,7 @@ body {
   margin-right: 30px;
 }
 .twoblocks .pains_pain-right-head-descr1::before {
-  content: url(/img/flash.svg);
+  content: url(../img/flash.svg);
   position: absolute;
   left: 8px;
   top: 8;
@@ -838,7 +838,7 @@ body {
   color: #FFFFFF;
 }
 .twoblocks .pains_pain-right-head-descr2::before {
-  content: url(/img/star.svg);
+  content: url(../img/star.svg);
   position: absolute;
   left: 8px;
   top: 8;
@@ -858,7 +858,7 @@ body {
 
 .analizandtarget {
   padding-top: 100px;
-  background: url(/img/analiz_back.png);
+  background: url(../img/analiz_back.png);
   background-repeat: no-repeat;
   background-position: top center;
   background-size: cover;
@@ -1044,7 +1044,7 @@ body {
 .target_wrapper {
   margin-left: 50%;
   transform: translateX(-50%);
-  background: url(/img/secondblock_image.png), linear-gradient(110.12deg, #3f3c3a 20%, #4e4e4e 85.79%);
+  background: url(../img/secondblock_image.png), linear-gradient(110.12deg, #3f3c3a 20%, #4e4e4e 85.79%);
   background-repeat: no-repeat;
   background-position: center center;
   background-size: cover;
@@ -1168,7 +1168,7 @@ body {
   font-style: normal;
 }
 .target_right-textblock::after {
-  content: url(/img/zap.svg);
+  content: url(../img/zap.svg);
   position: absolute;
   display: block;
   left: 42px;
@@ -1214,7 +1214,7 @@ body {
 }
 
 .methods {
-  background: url(/img/methods_back.png);
+  background: url(../img/methods_back.png);
   background-repeat: no-repeat;
   background-position: center center;
   background-size: cover;
@@ -1327,7 +1327,7 @@ body {
 
 .save {
   padding-top: 100px;
-  background: url(/img/analiz_back.png);
+  background: url(../img/analiz_back.png);
   background-repeat: no-repeat;
   background-position: top center;
   background-size: cover;
@@ -1397,7 +1397,7 @@ body {
   font-family: "Proxima Nova";
   font-style: normal;
   font-weight: 700;
-  background: url(/img/save_card2.png) no-repeat center center;
+  background: url(../img/save_card2.png) no-repeat center center;
   background-size: cover;
   width: 100%;
   min-height: 120px;
@@ -1518,7 +1518,7 @@ body {
   position: relative;
 }
 .save_button::before {
-  content: url(/img/download.svg);
+  content: url(../img/download.svg);
   position: absolute;
   top: 22px;
   left: 23px;
@@ -1620,7 +1620,7 @@ body {
   text-shadow: 0px 1.02343px 0.511714px rgba(0, 0, 0, 0.15);
 }
 .services_card-link::after {
-  content: url(/img/right-arrow-services.svg);
+  content: url(../img/right-arrow-services.svg);
   position: absolute;
   right: 0px;
 }
@@ -1643,7 +1643,7 @@ body {
   position: relative;
   margin-left: 50%;
   transform: translateX(-50%);
-  background: url(/img/secondblock_image.png), linear-gradient(120.12deg, #100f0f 65%, #6e6e6e 85%);
+  background: url(../img/secondblock_image.png), linear-gradient(120.12deg, #100f0f 65%, #6e6e6e 85%);
   background-repeat: no-repeat;
   background-position: center center;
   background-size: cover;
@@ -1948,7 +1948,7 @@ body {
   background: linear-gradient(0.52deg, #000000 -8.71%, rgba(0, 0, 0, 0) 92.09%);
 }
 .cases_carousel-left-1 {
-  background: url(/img/cases_img1.png), linear-gradient(100.12deg, #100f0f 65%, #6e6e6e 85%);
+  background: url(../img/cases_img1.png), linear-gradient(100.12deg, #100f0f 65%, #6e6e6e 85%);
   background-size: cover;
   background-repeat: no-repeat;
   background-position: center center;
@@ -2142,7 +2142,7 @@ body {
   position: relative;
   margin-left: 50%;
   transform: translateX(-50%);
-  background: url(/img/secondblock_image.png), linear-gradient(120.12deg, #100f0f 65%, #6e6e6e 85%);
+  background: url(../img/secondblock_image.png), linear-gradient(120.12deg, #100f0f 65%, #6e6e6e 85%);
   background-repeat: no-repeat;
   background-position: center center;
   background-size: cover;
