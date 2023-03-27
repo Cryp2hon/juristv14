@@ -364,7 +364,7 @@ body {
   justify-content: space-between;
 }
 .second_left {
-  padding-top: 100px;
+  padding-top: 70px;
   padding-left: 127px;
   width: 560px;
 }
@@ -455,7 +455,7 @@ body {
   bottom: 0;
 }
 .second_right {
-  padding-top: 120px;
+  padding-top: 90px;
   right: 120px;
   position: relative;
 }
@@ -629,11 +629,16 @@ body {
 .twoblocks .benefits_right {
   right: 0;
   width: 350px;
-  margin-top: -65px;
+  margin-top: 0px;
+}
+.twoblocks .benefits_right {
+  right: 0;
+  width: 350px;
+  margin-top: 0px;
 }
 .twoblocks .benefits_card {
   width: 350px;
-  margin-bottom: 20px;
+  margin-bottom: 35px;
   display: flex;
   align-items: flex-start;
   flex-direction: column;
